@@ -6,6 +6,7 @@ Congo is designed to be a powerful, lightweight theme for [Hugo](https://gohugo.
 📑 [Theme documentation](https://jpanther.github.io/congo/docs/)  
 🐛 [Bug reports & issues](https://github.com/jpanther/congo/issues)  
 💡 [Questions & feature requests](https://github.com/jpanther/congo/discussions)
+[Custom Home Page](https://lucacorbucci.me)
 
 ![Screenshot](https://raw.githubusercontent.com/jpanther/congo/stable/images/screenshot.png)
 
